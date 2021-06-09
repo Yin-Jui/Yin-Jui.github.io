@@ -30,6 +30,8 @@ body {
   padding: 30px 0px;
   position: fixed;
   margin-right: 10px;
+  width:18%; 
+  min-width:auto;
 }
 
 .wrapper .sidebar h2 {
